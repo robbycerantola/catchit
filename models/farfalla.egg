@@ -1,0 +1,14 @@
+<CoordinateSystem> { Z-up } 
+<Material> 01- {
+  <Scalar> diffr { 0.718 }
+  <Scalar> diffg { 0.631 }
+  <Scalar> diffb { 0.706 }
+  <Scalar> specr { 0.449 }
+  <Scalar> specg { 0.449 }
+  <Scalar> specb { 0.449 }
+  <Scalar> shininess { 12.5 }
+  <Scalar> emitr { 0.000 }
+  <Scalar> emitg { 0.000 }
+  <Scalar> emitb { 0.000 }
+}
+
